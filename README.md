@@ -2,9 +2,7 @@ helo
 
 irl name stephen
 
-im dumb
-
-website soon
+braincoolo.github.io
 
 
 
